@@ -1,0 +1,720 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Art of courtship; or, The School of delight. Containing amorous dialogues, complemental expressions, poems, letters and discourses upon sundry occasions, relating to love and business: Pleasant new songs, and directions for courtship and behaviour:   And rules for carving flesh, fish, fowl; and cutting up pastry: Also to distinguish the best pieces, and decently to serve a table after the most modish and courtly manner. : With other delightful and profitable things, necessary for the accomplishment of all persons. : To which is added, the significance of moles, in any part of the body, in relation to good and bad fortunes. : As likewise, the interpretation of dreams, as they presage happiness or unhappiness to men and women, in all stations and conditions. : Very profitable and advantageous to all persons.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75623</idno>
+            <idno type="STC">Wing A3789B</idno>
+            <idno type="STC">ESTC R175477</idno>
+            <idno type="EEBO-CITATION">45097497</idno>
+            <idno type="OCLC">ocm 45097497</idno>
+            <idno type="VID">171117</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75623)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171117)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2559:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Art of courtship; or, The School of delight. Containing amorous dialogues, complemental expressions, poems, letters and discourses upon sundry occasions, relating to love and business: Pleasant new songs, and directions for courtship and behaviour:   And rules for carving flesh, fish, fowl; and cutting up pastry: Also to distinguish the best pieces, and decently to serve a table after the most modish and courtly manner. : With other delightful and profitable things, necessary for the accomplishment of all persons. : To which is added, the significance of moles, in any part of the body, in relation to good and bad fortunes. : As likewise, the interpretation of dreams, as they presage happiness or unhappiness to men and women, in all stations and conditions. : Very profitable and advantageous to all persons.</title>
+               </titleStmt>
+               <extent>[24] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.M. for J. Back, at the Black Boy on London-Bridge,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes illustrated added t.p.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Courtship.</term>
+               <term>Etiquette.</term>
+               <term>Dreams --  Early works to 1800.</term>
+               <term>Fortune-telling by moles.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:171117:1"/>
+            <pb facs="tcp:171117:1" rendition="simple:additions"/>
+            <p>The Art of Courtſhip.</p>
+            <figure>
+               <figDesc>depiction of a woman</figDesc>
+            </figure>
+            <figure>
+               <figDesc>depiction of a man</figDesc>
+            </figure>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>This may be Printed.</p>
+                        <closer>
+                           <signed>R. P.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Printed for <hi>I. Back</hi> on <hi>London-Bridge.</hi>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:171117:2"/>
+            <pb facs="tcp:171117:2"/>
+            <p>The Art of Courtſhip; OR, <hi>The School of Delight.</hi>
+            </p>
+            <p>Containing Amorous Dialogues, Comple<g ref="char:EOLhyphen"/>mental Expreſſions, Poems, Letters, and Diſcourſes upon ſundry Occaſions, rela<g ref="char:EOLhyphen"/>ting to Love and Buſineſs: Pleaſant New Songs, and Directions for Courtſhip and Behaviour: And Rules for Carving Fleſh, Fiſh, Fowl; and cutting up Paſtry: Alſo to diſtinguiſh the beſt Pieces, and decently to ſerve a Table after the moſt Modiſh and Courtly manner.</p>
+            <p>With other delightful and profitable things, neceſſary for the accompliſhment of all Perſons.</p>
+            <p>
+               <hi>To which is added,</hi> The ſignification of MOLES, in any part of the Body, in relation to good and bad Fortunes.</p>
+            <p>As likewiſe, The Interpretation of <hi>Dreams,</hi> as they preſage happineſs or unhappineſs to Men and Women, in all Stations and and Conditions. Very profitable and ad<g ref="char:EOLhyphen"/>vantageous to all Perſons.</p>
+            <p>Printed by <hi>I. M.</hi> for <hi>I. Back,</hi> at the Black Boy on <hi>London-Bridge:</hi> 1688.</p>
+         </div>
+      </front>
+      <body>
+         <div type="courtship_manual">
+            <pb facs="tcp:171117:3"/>
+            <head>THE Art of Courtſhip; OR, <hi>The School of Delight.</hi>
+            </head>
+            <div type="dialogue">
+               <head>An Amorous Dialogue between <hi>Thomas</hi> and <hi>Sarah;</hi> Or,<hi>The ready way of Wooing.</hi>
+               </head>
+               <sp>
+                  <speaker>Thomas.</speaker>
+                  <p>OH my Love, how happy am I, thus accidentaily to meet you! alas my dear, why bluſh you? why turn you that face a<g ref="char:EOLhyphen"/>way, on which with delight I could gaze (would the brittle thread of Life continue) Ages without Number.</p>
+               </sp>
+               <sp>
+                  <speaker>Sarah.</speaker>
+                  <p>Ah! how you flatter me now? truly <hi>Thomas</hi> I did not think you had been ſo deep read in the Miſtery of Courtſhip; yet I am too wiſe to credit all that men ſay: Yes, yes, my Mother told me indeed, that men had deluding tongues, and charged me never to truſt 'em.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>Cruel Maid, can you, after all the Expreſſions of a real paſſion, which I
+<pb facs="tcp:171117:3"/>have many ways demonſtrated, believe that I am in jeſt or can be falſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Sarah.</speaker>
+                  <p>Nay <hi>Tom,</hi> I know not but you may, for adad, my Mother ſays, there's not one in forty Mile that mean (indeed and good ear<g ref="char:EOLhyphen"/>neſt) what they pretend.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>Then by all that is good in you, and my ſelf I ſwear.</p>
+               </sp>
+               <sp>
+                  <speaker>Sarah.</speaker>
+                  <p>Oh fie <hi>Tom,</hi> nay, no ſwearing, for I had rather believe you then you ſhould uſe any vain expreſſions.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>And you do believe me real, and that I love you above what words are capable of Expreſſing? above all that I can wiſh or think, referring to things on this ſide Hea<g ref="char:EOLhyphen"/>ven.</p>
+               </sp>
+               <sp>
+                  <speaker>Sarah.</speaker>
+                  <p>Adad if I thought ſo, i'de tell you more of my mind—Well if you will be conſtant and faithful—But why do I talk of that? eſpecially if I conſider what my Mo<g ref="char:EOLhyphen"/>ther told me?</p>
+               </sp>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>Come, come, no more of Ambigu<g ref="char:EOLhyphen"/>ity, let doubts ceaſe, and try my Love; kindled by a flame as bright as the Planet of the day; a love that is laſting, and cannot be extinguiſht by want of Jealouſie.</p>
+               </sp>
+               <sp>
+                  <speaker>Sarah.</speaker>
+                  <p>If I thought ſo—Well, to be plain with you <hi>Tom,</hi> for I can't hide it no longer; if you love me as you ſay, let us
+<pb facs="tcp:171117:4"/>be marryed as ſoon as you will, and then do as you pleaſe, as for our Fortunes, you know are but mean, and I am not inſenſible of yours; I hate to ſee a man of your parts pine and whine, come come, let's make an end on't if it muſt be ſo.</p>
+               </sp>
+               <sp>
+                  <speaker>Thom.</speaker>
+                  <p>Now you revive me, and as it were call back my fading Spirits.</p>
+                  <l>It ſhall be as you ſay, this day ſhall-be</l>
+                  <l>The happy Nuptial, joyful day to me;</l>
+                  <l>If you conſent to be my charming Bride,</l>
+                  <l>All cares i'le baniſh, and while by my ſide</l>
+                  <l>You panting lye night ſhall your bluſhes hide,</l>
+                  <l>Night, that kind coverture of inſant love,</l>
+                  <l>Shall make you know how dear, how kind i'le prove.</l>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <l>I yield, and if a power remain in me,</l>
+                  <l>To make you happy nought ſhall wanting be.</l>
+               </sp>
+               <sp>
+                  <speaker>T.</speaker>
+                  <l>Then let us haſte and tye the Nuptial Bands,</l>
+                  <l>Since hearts are joyn'd, we'l quickly joyn our Hands.</l>
+               </sp>
+            </div>
+            <div type="dialogue">
+               <head>A Dialogue between <hi>Amintas</hi> and <hi>Pricilla; Or,</hi> The Willing Lovers.</head>
+               <sp>
+                  <speaker>P.</speaker>
+                  <l>Say, why are you of late ſo drowſie grown,</l>
+                  <l>why o're your face is melancholly thrown</l>
+               </sp>
+               <sp>
+                  <speaker>A.</speaker>
+                  <l>The cauſe is from within, a mighty grie<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>That ſtrongly ſtrugles, fain would have relie<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+               </sp>
+               <sp>
+                  <pb facs="tcp:171117:4"/>
+                  <speaker>P.</speaker>
+                  <l>Whence ſprung it? ſpeak, does it pro<g ref="char:EOLhyphen"/>ceed from Love?</l>
+                  <l>Beſure it cannot that you'l ne'r approve.</l>
+               </sp>
+               <sp>
+                  <speaker>A.</speaker>
+                  <l>Ah! fair <hi>Prieilla,</hi> you have found it now</l>
+                  <l>And what you ſay I bluſhing muſt allow;</l>
+                  <l>'Tis o're my heart great love doth tyrannize,</l>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>But who is ſhe that could thy heart ſur<g ref="char:EOLhyphen"/>prize?</p>
+               </sp>
+               <sp>
+                  <speaker>A.</speaker>
+                  <l>A Beauty gay and lovely as the morn,</l>
+                  <l>When Roſie bluſhes does its face adorn,</l>
+                  <l>And pearly dews o're <hi>Floras</hi> face does ſhade,</l>
+                  <l>The faireſt Creature Nature ever made.</l>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Has ſhe no name? who is ſhe? tell me true,</p>
+               </sp>
+               <sp>
+                  <speaker>A.</speaker>
+                  <p>Ah, dear <hi>Pricilla</hi> fair one, it is you.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <l>Me! O, it cannot be, I have no Charms</l>
+                  <l>But Nature caſt me roughly from her arms.</l>
+               </sp>
+               <sp>
+                  <speaker>A.</speaker>
+                  <l>'Tis only you can cure my wounded heart,</l>
+                  <l>From your bright eyes was ſhot the wounding Dart.</l>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <l>Do not thus flatter to deceive a Maid,</l>
+                  <l>Whoſe yielding heart is eaſily betray'd.</l>
+               </sp>
+               <sp>
+                  <speaker>A.</speaker>
+                  <l>No words of courſe you heart that come and go,</l>
+                  <l>But ſuch as from intire affection flow.</l>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <l>Cou'd I believe ye true, on ſoon ſhould find</l>
+                  <l>That I am to no cruelty inc<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>in'd.</l>
+               </sp>
+               <sp>
+                  <speaker>A.</speaker>
+                  <l>Nothing more joys me, then to hear your name,</l>
+                  <pb facs="tcp:171117:5"/>
+                  <l> Though hitherto I have conceald' my flame?</l>
+                  <l>That it might brighter burn and I be bleſt,</l>
+                  <l>When of your deareſt ſelf I was poſſeſt.</l>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <l>Was I confirm'd in this, with joy i'd flye</l>
+                  <l>Into your Arms and in your Boſom lye.</l>
+               </sp>
+               <sp>
+                  <speaker>A.</speaker>
+                  <l>Miſtruſt me not thou faireſt of that kind,</l>
+                  <l>A Love than mine more true you ne'r can find.</l>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <l>I muſt believe or dare I longer doubt,</l>
+                  <l>Thus arm in arm we'l wear our ages out;</l>
+                  <l>Till Death to bleſt Elizium us convey,</l>
+               </sp>
+               <sp>
+                  <speaker>A.</speaker>
+                  <l>we will my joy, and this thrice happy day</l>
+                  <l>We'l memorize with Feſtival and play.</l>
+                  <l>And to all Lovers a kind pattern be,</l>
+                  <l>Whilſt both our hearts as if in one agree.</l>
+               </sp>
+            </div>
+            <div type="dialogue">
+               <head>The different Effects in LO<g ref="char:V">Ʋ</g>E; <hi>Or,</hi> A diſ<g ref="char:EOLhyphen"/>courſe between <hi>Will</hi> and <hi>Ned.</hi>
+               </head>
+               <sp>
+                  <speaker>Ned.</speaker>
+                  <p>VVEll Brother <hi>Will,</hi> how ſped you with your Miſtriſs the o<g ref="char:EOLhyphen"/>ther day? I perceive you puſht the matter home; Come, come prithee tell me man, how it fared with you, for I obſerve by your coun<g ref="char:EOLhyphen"/>tenance, you are wonderfully pleaſed.</p>
+               </sp>
+               <sp>
+                  <speaker>W.</speaker>
+                  <p>How can <hi>I</hi> otherways, when ſo fair ſo ſoft, ſo kind and charming a Creature has eaſt her ſelf into my arms, and met my paſ<g ref="char:EOLhyphen"/>ſion with an equal flame?</p>
+               </sp>
+               <sp>
+                  <pb facs="tcp:171117:5"/>
+                  <speaker>N.</speaker>
+                  <p>You are a happy Man if it be ſo: <hi>Venus</hi> was kind in ruling your Nativity: but Ah!</p>
+               </sp>
+               <sp>
+                  <speaker>W.</speaker>
+                  <p>How's this <hi>Ned</hi>—Why Man, what makes you ſigh? ſure you han't fell in Love with a croſs Miſtriſs, have you?</p>
+               </sp>
+               <sp>
+                  <speaker>N.</speaker>
+                  <p>Your gueſs is right; that heart which long withſtood the batteries of mighty love, and as unconcerned beat back the dazling beams of brighteſt Beauty, at laſt is ſtormed, by a cruel fair one, who let's me languiſh without hope.</p>
+               </sp>
+               <sp>
+                  <speaker>W.</speaker>
+                  <p>Fie, fie, it cannot be; can you the witty gallant and the brave, languiſh for one who is regardleſs of your pain? Come, rouze up man, and baniſh ſuch a Servile love, be your ſelf and you have conquer'd it.</p>
+               </sp>
+               <sp>
+                  <speaker>N.</speaker>
+                  <p>As ſoon may Priſoners loaded with ſtrong Chains, break from their Iron durance, as I break the Chains of Love; No, though ſhe be cruel, yet I ſtill muſt love, and wound the Air with ſighs, as when the wind from hollow Rocks ſends an imperfect murmer.</p>
+               </sp>
+               <sp>
+                  <speaker>W.</speaker>
+                  <p>Surely you are in jeſt?</p>
+               </sp>
+               <sp>
+                  <speaker>N.</speaker>
+                  <p>In jeſt, ſay you, if it be a jeſt it is a true one; a jeſt which makes me covet Solitude, and ſhun thoſe Recreations I was wont to Glory in; a jeſt made worſe by what you tell, and makes me do what ne'r before I did, Envy your happin ſs, ſince I am miſerable.</p>
+               </sp>
+               <sp>
+                  <pb facs="tcp:171117:6"/>
+                  <speaker>W.</speaker>
+                  <p>No more of this, Pſha—'tis but counterfeit; come, come along thou whining ſneaking pretending Lover; or if it be true, We'l to the place where joy &amp; mirth abound, In Songs &amp; Maſques we'l thy Paſſion drownd, Whilſt thou ſhalt ſcorn the ſcorner, &amp; be free From her that held thee in Captivity:</p>
+                  <l>'Tis Muſick, Wine, and Voices, that remove</l>
+                  <l>The pangs and tortures of a fruitleſs love.</l>
+               </sp>
+               <sp>
+                  <speaker>N.</speaker>
+                  <l>I'le go and try, though tryal may be vain,</l>
+                  <l>And if I'm freed i'le ne'r be caught again.</l>
+               </sp>
+            </div>
+            <div type="complimentary_expressions">
+               <head>Complemental Expreſſions, and Love Poſies.</head>
+               <p>SIR, the joy to ſee you is more than words can utter.</p>
+               <p>Sir, 'tis you alone, next Heaven, on whom I muſt relye; your favours are ſo many, that my heart has ſcarcely room to contain them.</p>
+               <p>Sir, I am proud to be your Servant, and deſire no more but to enjoy that name.</p>
+               <p>Sir, your Wiſdom and Eloquence is ſo Charming, that I muſt needs admire you.</p>
+               <p>Sir, the Excellencies with which you are endued, are many, and even beyond expreſ<g ref="char:EOLhyphen"/>ſion.</p>
+               <pb facs="tcp:171117:6"/>
+               <p> Sir, your friendſhip I covet above all others, and am proud to be ranked amongſt the num<g ref="char:EOLhyphen"/>ber of thoſe you are pleaſed to term your Friends.</p>
+               <p>Madam, your Beauties are ſo rare, and your actions ſo tempting, that I muſt wear your Chains, and count it a bleſſing to be your Slave.</p>
+               <p>Madam, Wounded by your fair Eyes, I languiſh.</p>
+               <p>Madam, you are the fair Phyfitian that can only cure the diſtemper of my mind.</p>
+               <p>Lady, 'tis your Vertues I admire, for that more than Beauty adorns the Female Sex.</p>
+               <p>Lady, I am Raviſhed with your Charming Voice, whoſe power is as great as that of <hi>Orpheus,</hi> in compelling the attention of ad<g ref="char:EOLhyphen"/>miring mortals.</p>
+               <p>Madam, in your Cheeks the Roſes and the Lillies ſtrive for maſtery, and on you wait a a pomp of winning Grace.</p>
+               <p>Lady, be pleaſed to rank me amongſt your meaneſt Servants, and I ſhall make it the bu<g ref="char:EOLhyphen"/>ſineſs of my life to do you pleaſure.</p>
+               <p>Lady, I am all your own, command me in what you pleaſe, and you ſhall be obeyed.</p>
+               <p>Faireſt of Creatures, O that I could find words to expreſs how much I love.</p>
+               <pb facs="tcp:171117:7"/>
+               <p> Madam you are fair and cruel, your beauty made the wound you now refuſe to cure.</p>
+            </div>
+            <div type="poem">
+               <head>POSIES.</head>
+               <l>My love ſhall be</l>
+               <l>For ever free.</l>
+               <l>Naught ſhall divide</l>
+               <l>The knot we've ty'd</l>
+               <l>By Death alone</l>
+               <l>It is undone.</l>
+               <l>Till life is paſt,</l>
+               <l>My love ſhall laſt,</l>
+               <l>My love I place,</l>
+               <l>On thy ſweet face.</l>
+               <l>'Tis thou in me,</l>
+               <l>Shall happy be.</l>
+               <l>My joy thou art, and haſt my heart.</l>
+            </div>
+            <div type="love_letters">
+               <div type="part">
+                  <head>A Letter in Verſe from a Love-ſick Youth to a ſcornful Maid.</head>
+                  <l>WHilſt Gales of ſighs were ſent from my ſad breaſt,</l>
+                  <l>And thoughts of you would give my eyes no reſt,</l>
+                  <l>Snatching a mid-night Tapor ſtrait to write</l>
+                  <l>I did begin, but tears ſo dull'd my ſight,</l>
+                  <l>That pardon if ſome blots do here appear,</l>
+                  <l>Whilſt I intreat you be as kind as fair,</l>
+                  <l>Pitty the Man that ſighs and pines for you,</l>
+                  <l>The man who vows for ever to be true,</l>
+                  <l>And thinks that nothing for you is too good</l>
+                  <l>O give me ſome though but <hi>Camelians</hi> food.</l>
+                  <l>Let me have hopes although I feed on air,</l>
+                  <l>And run me not thus headlong to diſpair:</l>
+                  <l>Sead me a Cordial deareſt or I dye,</l>
+                  <pb facs="tcp:171117:7"/>
+                  <l>'Tis you or death muſt end my miſery;</l>
+                  <l>One or the other I muſt ſurely have,</l>
+                  <l>You for my wife or wed the ſullen Grave:</l>
+                  <l>And till I know my doom, I muſt remain,</l>
+                  <l>Your ſlave to wear your chains and live in pain</l>
+                  <bibl>
+                     <hi>I. B.</hi>
+                  </bibl>
+               </div>
+               <div type="part">
+                  <head>The Anſwer.</head>
+                  <opener>
+                     <salute>Sir,</salute>
+                  </opener>
+                  <p>YOur Poetical Fancy is very great, I ſup<g ref="char:EOLhyphen"/>poſe much greater then your paſſion; but if you are real, take notice I give you leave to hope, yet rely not too much upon that, for Womens minds are wavering: indeed I could have wiſhed you had placed your affections ſome where elſe, for though I ſhould admit you amongſt the number of my ſervants, 'tis ten to one whether you will ever have what you deſire. This Letter how pleaſing it may prove I cannot tell, I wrote it at the importu<g ref="char:EOLhyphen"/>nity of your Servant, which I had not done, but that he told me he ſhould have but cold welcome if he returned empty handed: there<g ref="char:EOLhyphen"/>fore take it as it is, and make what you can of it, whilſt I reſt intirely my own to diſpoſe of my ſelf when and where I have mind to it.</p>
+                  <closer>
+                     <signed>A. G.</signed>
+                  </closer>
+               </div>
+            </div>
+            <div type="poem">
+               <head>The Perfection of Women-kind.</head>
+               <p>BEauty with vertue joyn'd is the bright jem that makes the wiſe the ſofter ſex eſteem</p>
+               <pb facs="tcp:171117:8"/>
+               <l> For thoſe united Iuſtre does unfold,</l>
+               <l>Like flaming Diamonds in an Orb of Gold;</l>
+               <l>The laſt may well conſiſt without the firſt,</l>
+               <l>But when the laſt is from the former thruſt,</l>
+               <l>Woman's no more, Women in vertue lies,</l>
+               <l>That is the thing that only we ſhould prize;</l>
+               <l>For if not ſo, a Picture that is fair,</l>
+               <l>Conceited living, is a thing as rare.</l>
+            </div>
+            <div type="song">
+               <head>SONG.</head>
+               <opener>To a pleaſant New Tune.</opener>
+               <lg>
+                  <l>My life and my death are both in your power,</l>
+                  <l>I never was wretched till this cruel hour;</l>
+                  <l>Sometimes it is true, you tell me you love,</l>
+                  <l>But alas, 'tis too kind for me ever to prove;</l>
+                  <l>Cou'd you gueſs with what pain my poor heart is oppreſt,</l>
+                  <l>I am ſure my <hi>Alexis</hi> would ſoon make me bleſt</l>
+               </lg>
+               <lg>
+                  <l>Diſtractedly Jealous I do hourly rove,</l>
+                  <l>Thus ſighing and muſing, 'tis all for my love;</l>
+                  <l>No place can I find that will yield me relief,</l>
+                  <l>My Soul is for ever entangl'd in grief;</l>
+                  <l>But if the kind Stars let me ſee him, O then,</l>
+                  <l>I'll forgive the cruel Author of all my paſt pain<g ref="char:punc">▪</g>
+                  </l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>The Delights of Marriage.</head>
+               <l>HOw happy <hi>Celia</hi> is it, now we are</l>
+               <l>In wedlock joyn'd &amp; made a happy pair<g ref="char:punc">▪</g>
+               </l>
+               <pb facs="tcp:171117:8"/>
+               <l>'Tis true my <hi>Strephon,</hi> we have joys,</l>
+               <l>That few the like can find,</l>
+               <l>A paſſion that no time deſtroys,</l>
+               <l>Is fix'd in eithers mind;</l>
+               <l>'Tis for my <hi>Celia,</hi> mighty Love has made</l>
+               <l>Us bleſt, ſince we to him our Vows ha' paid:</l>
+               <l>This had not been, if you had prov'd unkind,</l>
+               <l>This true content you ne'r before could find:</l>
+               <l>'Tis true my <hi>Strephon,</hi> I had been</l>
+               <l>In Ignorance till now;</l>
+               <l>Theſe happy days I ne'r had ſeen,</l>
+               <l>If I had kept my Vow:</l>
+               <l>But now I find ſuch follid bliſs,</l>
+               <l>That i'de not be a Virgin now,</l>
+               <l>For all that I could wiſh:</l>
+               <l>Come <hi>Celia</hi> then let's to the ſhade,</l>
+               <l>And ſolace in our love;</l>
+               <l>Thou ſhalt be yet more happy made,</l>
+               <l>And i'le more conſtant prove.</l>
+            </div>
+            <div type="song">
+               <head>SONG.</head>
+               <opener>Tune of, <hi>Amoret</hi> and <hi>Phillis.</hi>
+               </opener>
+               <lg>
+                  <l>Young <hi>Pheon</hi> ſtrove the bliſs to taſte,</l>
+                  <l>but <hi>Strapho</hi> ſtill deny'd;</l>
+                  <l>She ſtruggl'd long, the Youth at laſt,</l>
+                  <l>lay panting by her ſide:</l>
+                  <l>Uſeleſs he lay, love would not wait,</l>
+                  <l>till they could both agree,</l>
+                  <l>They idly languiſht in debate,</l>
+                  <l>when they ſhould active be.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:171117:9"/>
+                  <l>At laſt, come ruine me, ſhe ſaid,</l>
+                  <l>and then there fell a tear,</l>
+                  <l>I'le in thy Breaſt my bluſhes hide,</l>
+                  <l>i ts all that Virgins fear:</l>
+                  <l>Oh that age could loves right perform,</l>
+                  <l>we'd make old men obey,</l>
+                  <l>They court us long, Youth loves to ſtorm,</l>
+                  <l>then plunder and away.</l>
+               </lg>
+               <lg>
+                  <l>The baſhful Lover have I ſeen,</l>
+                  <l>in raptures of ſurprize,</l>
+                  <l>Adore his Miſtriſs like a Queen,</l>
+                  <l>and gaze upon her Eyes:</l>
+                  <l>Then ſigh, ſay nothing, and away,</l>
+                  <l>and leave th'inſulting foe,</l>
+                  <l>Proud in the conqueſt of the day,</l>
+                  <l>without ever ſaying no.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>Loves Power and Cruelty.</head>
+               <l>LIghtning is not ſwifter then the glance</l>
+               <l>of charming beauty, for tho' ſeen by chance</l>
+               <l>It penetrates the Soul and fires the mind,</l>
+               <l>That wretched Lovers no contentment find,</l>
+               <l>But cruel Torments, a tormenting grief,</l>
+               <l>Seizes the wretch that's void of a relief.</l>
+            </div>
+            <div type="essay">
+               <head>Courtſhip what it is.</head>
+               <p>COurtſhip and good behaviour is the mo<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> accompliſh'd way of addreſſing carriage
+<pb facs="tcp:171117:9"/>all Company, a Civil reſpect for Inferiours, and a due reverence and regard for Superiors, comely behaviour and modeſty in Diſcourſe and action; a moderate carriage, and not too much dejected, a temper ſuitable to all com<g ref="char:EOLhyphen"/>pany, and a mind not to be moved by paſſion, either of anger, joy or grief, not Loquatious but prudent and conſiderate, which are the chief Ornaments of either Sex, and gain a good repute amongſt the wiſeſt of men.</p>
+               <l>A name you gain which time can never blaſt,</l>
+               <l>A name that will remain till time is paſt.</l>
+            </div>
+            <div type="dialogue">
+               <head>The Happy Sueceſs: <hi>Or,</hi> Damaris <hi>and</hi> Roſa.</head>
+               <sp>
+                  <speaker>D.</speaker>
+                  <p>AH! my Joy, you now are in my pow<g ref="char:EOLhyphen"/>er, Love gives us opportunity, come be not coy, you are my own, although divided ſometimes by our Parents.</p>
+               </sp>
+               <sp>
+                  <speaker>R.</speaker>
+                  <p>Alas, I know not what you mean, though I confeſs I love you, and therefore am confi<g ref="char:EOLhyphen"/>dent you won't hurt me.</p>
+               </sp>
+               <sp>
+                  <speaker>D.</speaker>
+                  <p>No, no, you need not fear that, my tender joy, for in hurting you I wound my ſelf, come, come my little happineſs, let us retire.</p>
+               </sp>
+               <sp>
+                  <speaker>R.</speaker>
+                  <p>With all my heart I know you will make much of me, and ſo long I am ſafe.</p>
+               </sp>
+            </div>
+            <div type="directions_for_carving">
+               <pb facs="tcp:171117:10"/>
+               <head>The neweſt Directions for <hi>Carving</hi> Butchers Meat, Fowl, Fiſh and Paſtery.</head>
+               <p>IN a Loyn of Veal, it being decently cut in two, cut off that piece next the Kidney end, and preſent it as the choiceſt piece.</p>
+               <p>A Leg of Mutton, being taken by the han<g ref="char:EOLhyphen"/>dle, turn your Knife on the inſide, as if you would ſlit it, then turn off to the left, and turn out the Nut-piece, or the little Bone by the ſide of the handle, and preſent it as the moſt acceptable.</p>
+               <p>In a Quarter of Lamb, you muſt divide the Shoulder from the Ribs, ſprinkle ſome Salt thereon, and lay it in its place, then turning your Knife under the handle, take off that part, and preſent it to your Friend.</p>
+               <p>In a Haunch of Veniſon, turn your Knife in the middle, cut out a round piece, and with Sawce preſent it: the ſame cutting ſerves for a Gammon of Bacon, Weſtphaliaham, &amp;c.</p>
+               <p>A Neats Tongue you muſt ſlit, and cutting it in thin ſlices, prefent it.</p>
+               <p>A Pig muſt be Chined down the Back, the Head being cut off fair, the Ears laid upon the Shoulders, and the Jaws by the Front; the Ears by Ladies being accounted beſt.</p>
+               <p>A Pheaſant muſt be diſplayed, by entring the poynt of the Knife under the Legs and Wings, lacing the Breaſt, then be taken off and preſented.</p>
+               <pb facs="tcp:171117:10"/>
+               <p> A Turkey muſt be Raiſed or lifted, by ta<g ref="char:EOLhyphen"/>kings off the Legs and Wings, and lacing the Breaſt, taking the Merithought, which is pre<g ref="char:EOLhyphen"/>ſented as the beſt piece.</p>
+               <p>A Patridge or Plover, muſt be minced, by lacing and cutting croſs, taking off the Legs and Wings, preſenting the Breaſt.</p>
+               <p>A Heron or Bittorn, muſt be lifted, that is, by raiſing the Legs with the poynt of your Knife, lacing the Breaſt, taking off the Belly<g ref="char:EOLhyphen"/>piece and Merithought. Plover, Teal, and Widgeon, may be cut as Pullets.</p>
+               <p>A Gooſe muſt be taken off Wings and Legs by a quick hand, with the poynt of a Knife, the Merithought raiſed, the breaſt laced, and the raiſed fleſh taken off, the Belly-piece taken off and divided. As for Pidgeons, young Chickens, Earks, and the like they muſt be ſplit or divided in halves, long-ways. A Capon or Pullet cut up like a Gooſe. The Wings of all Wild Fowl are the beſt, and the Legs of Tame ones are ſo accounted.</p>
+               <p>A Salmon muſt be Chined, laid open, and ſliced. A Lobſter muſt be Clawed and broken up, or ſlit. A Veniſon Paſty, or any large Paſty, muſt be cut up in the middle of the Lid, the meat taken out with a Fork, and the Gravy with a Spoon, and ſo preſented. As for leſſer Pies and Tarts, the lid muſt be
+<pb facs="tcp:171117:11"/>intirely taken off, and the Filling ſerved in Plates with part of the lid or in-ſide Cruſt.</p>
+            </div>
+            <div type="physiognomy_manual">
+               <head>The Signification of <hi>Moles</hi> in any part of the Body.</head>
+               <p>A Mole on the right part of the Forehead, ſignifies the party wiſe and Induſtrous.</p>
+               <p>A Mole on the left part of the Forehead, ſignifies the party to be of no great Ingenuity, bu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that the party ſhall be laborious, and there<g ref="char:EOLhyphen"/>by get Riches.</p>
+               <p>A Moles in the m<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ddle of the Fo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ehead, de<g ref="char:EOLhyphen"/>notes an indifferent Fortune, but that the par<g ref="char:EOLhyphen"/>ty ſhall be much beloved, and by that means may doubtleſs attain preferment.</p>
+               <p>A Mole on the right Eye-brow, promiſeth the party to gain Riches by Marriage.</p>
+               <p>A Mole on the left Eye-brow, threatens the firſt marriage unhappy, but the ſecond plyant and eaſie.</p>
+               <p>A Mole on the Noſe denoteth another on the privy parts, ſignifieth the party to be luſt<g ref="char:EOLhyphen"/>ful, and very deſirous of marriage.</p>
+               <p>A mole on the Lip, ſignifies a ſweet and af<g ref="char:EOLhyphen"/>fable temper, that the party has a good ſtroak at K<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſing.</p>
+               <p>A m<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le on the Chin, or on one corner of the mouth, denotes Riches and Honour, but that the party is ſomewhat Gluttonous.</p>
+               <pb facs="tcp:171117:11"/>
+               <p> A mole on the Throat, threatens ths party with Diſeaſes, as Strangury, Quinfie, <hi>&amp;c.</hi>
+               </p>
+               <p>A mole on the Neck behind, is dangerous, unleſs that danger of ſudden death be averted by providence.</p>
+               <p>A mole on the right Shoulder, ſignifies the Favour of great perſons; and on the left, Ser<g ref="char:EOLhyphen"/>vility and labour, with many Croſſes.</p>
+               <p>A mole on the Back, ſignifies a good Name, and many Children.</p>
+               <p>A mole on the middle of the Belly, juſt by the Navel, denotes an early marriage.</p>
+               <p>A mole on the privy parts, denotes the par<g ref="char:EOLhyphen"/>ty powerful in Venery, and promiſes many Children.</p>
+               <p>A mole on the Buttocks, denotes the party to be of a plyant and affable temper.</p>
+               <p>A mole on the right Thigh, denotes plenty and pleaſure.</p>
+               <p>A mole on the left Thigh, ſignifieth the contrary.</p>
+               <p>A mole on the Knee, ſignifieth the party is given much to Piety and Devotion.</p>
+               <p>A Mole on the Calf of the Leg, ſignifieth the party will be ſubject to the Gout.</p>
+               <p>A mole on the right Ancle, ſignifieth the party ſwift and induſtrous: On the left Ancle, it threatens him with falling into the hands of Thieves and Robbers.</p>
+               <pb facs="tcp:171117:12"/>
+               <p> A mole on the right Foot, ſignifies the par<g ref="char:EOLhyphen"/>ty ſhall travel on honourable occaſions.</p>
+               <p>A mole a on the left Foot, denotes to a Wo<g ref="char:EOLhyphen"/>man much danger in Child-birth, and to a man much pain in Travel. <hi>Cum Multis Alias.</hi>
+               </p>
+            </div>
+            <div type="tract_on_the_interpretation_of_dreams">
+               <head>A Diſcourſe of <hi>DREAMS,</hi> and their Interpretations.</head>
+               <p>TO Dream you ſee white Hens upon a Dunghil, ſignifies Diſgrace by ſome falſe accuſation.</p>
+               <p>To dream one is in a pleaſant Meadow, ſig<g ref="char:EOLhyphen"/>nifies the poſſeſſion of Riches, and the advan<g ref="char:EOLhyphen"/>tage of pleaſure.</p>
+               <p>To dream one fights and overcomes, is to have the advantage over ones Adverſary in Law Suits, or otherwiſe.</p>
+               <p>To dream it Thunders and Lightens, is a figure of approaching ſickneſs.</p>
+               <p>To dream two Lovers meet and have not power to ſpeak to each other, denotes the match will be broken off by the means of their Parents.</p>
+               <p>To Dream you ſee Death in Sickneſs, and that he flies you, is a ſign of recovery.</p>
+               <pb facs="tcp:171117:12"/>
+               <p> To dream of Kiſſes and Embraces, ſignifies ſudden Marriage.</p>
+               <p>To dream you are dead and laid out, ſigni<g ref="char:EOLhyphen"/>fies a dreſſing for the Nuptials.</p>
+               <p>To dream of gay Cloathing, and that upon your Back they turn to Rags, ſignifierh po<g ref="char:EOLhyphen"/>verty.</p>
+               <p>To dream one is with Child, and knows not the Father, denotes her Marriage with a ſtranger.</p>
+               <p>To dream one ſees the Sun in its bright<g ref="char:EOLhyphen"/>neſs, ſignifies the favour of Great ones.</p>
+               <p>To dream a Ring drops off ones finger, denoteth a diſappointment in Love.</p>
+               <p>To dream one has a Garland of Flowers brought and preſented, denotes he or ſhe will have the party deſired.</p>
+            </div>
+            <div type="song">
+               <pb facs="tcp:171117:13"/>
+               <head>A Song of COURTSHIP.</head>
+               <opener>To the Tune of, <hi>State and Ambition.</hi>
+               </opener>
+               <sp>
+                  <lg>
+                     <l>SWeet my Ambition is only to wooe thee,</l>
+                     <l>Your Beauty's ſo lovely it doth me ſurprize,</l>
+                     <l>Let my fair Miſtriſs my gentle ſighs move ye,</l>
+                     <l>Who long have a Captive been to your fair eyes,</l>
+                     <l>Wiſhing no greater bliſs then to adore ye,</l>
+                     <l>So ſweet is the pain I in languiſhing find,</l>
+                     <l>No beauty had power to wound me before you,</l>
+                     <l>Then Gentle dear Virgin come ſmile and be kind.</l>
+                  </lg>
+                  <lg>
+                     <l>Lilly's and Roſes ſhall ſhaddow our pleaſure,</l>
+                     <l>Fair Flora with ſweets ſhall perfume our ſoft Bed,</l>
+                     <l>Whilſt in my kind arms I hug my dear treaſure,</l>
+                     <l>Till Bluſhes created by fear are all fled.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Maid.</speaker>
+                  <lg>
+                     <l>Since you'r ſo kind I cannot refuſe ye,</l>
+                     <l>A conqueſt great love in my heart now has made,</l>
+                     <l>No longer kind Sir 'tis I mean to abuſe ye,</l>
+                     <l>Then cheer up your Spirits and be no more ſad.</l>
+                  </lg>
+                  <lg>
+                     <l>Though Virgins a while may ſtand at a diſtance,</l>
+                     <l>They cannot be cruel when true love is found,</l>
+                     <l>Their hearts they grow tender and looſe all reſiſtance,</l>
+                     <l>When patience and conſtancy gives them a wound.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Man.</speaker>
+                  <lg>
+                     <l>Bleſt be the moment that gave me the bleſſing,</l>
+                     <l>To make me ſo happy beyond all degree,</l>
+                     <l>A joy that is worth a Monarchs poſſeſſing,</l>
+                     <l>Love mighty Love has now heap'd upon me.</l>
+                  </lg>
+               </sp>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:171117:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
